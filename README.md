@@ -59,6 +59,8 @@ Gelecekte yapılabilecek geliştirmeler:
 ---
 
 ## 🔗 Linkler
-- 📓 [Kaggle Notebook]([https://www.kaggle.com/](https://www.kaggle.com/code/senanurztrk/braintumordetection)) 
-- 📂 [Dataset - Kaggle](https://www.kaggle.com/datasets/arwabasal/brain-tumor-mri-detection)  
+
+- Kaggle Notebook: https://www.kaggle.com/code/senanurztrk/braintumordetection  
+- Dataset - Kaggle: https://www.kaggle.com/datasets/arwabasal/brain-tumor-mri-detection
+
 
